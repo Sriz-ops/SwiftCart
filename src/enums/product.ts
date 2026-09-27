@@ -3,5 +3,6 @@ export const ProductCardVariant = {
   Listing: "listing",
 } as const;
 
+
 export type ProductCardVariant =
   (typeof ProductCardVariant)[keyof typeof ProductCardVariant];

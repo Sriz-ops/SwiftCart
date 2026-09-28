@@ -80,7 +80,7 @@ function Showcase() {
               <Card
                 variant="flat"
                 title="Support"
-                footer={<Button variant="outline">CONTACT SUPPORT</Button>}
+                footer={<Button variant="outline">CONTACT SUPPORT </Button>}
               >
                 Technical help center.
               </Card>

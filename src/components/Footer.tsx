@@ -91,7 +91,7 @@ function Footer() {
             Terms of Use | Privacy Policy
           </p>
 
-          <div className="text-base font-bold">SwiftCart</div>
+          <div className="text-base font-bold"> SwiftCart </div>
         </div>
       </div>
     </footer>

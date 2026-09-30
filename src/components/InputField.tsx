@@ -1,7 +1,9 @@
 import type { InputHTMLAttributes } from "react";
 
-interface InputFieldProps
-  extends Omit<InputHTMLAttributes<HTMLInputElement>, "name"> {
+interface InputFieldProps extends Omit<
+  InputHTMLAttributes<HTMLInputElement>,
+  "name"
+> {
   name: string;
   label: string;
   error?: string;

@@ -3,7 +3,7 @@
 
 A responsive ecommerce web application built with React and TypeScript.
 
-The application provides reusable UI components, product browsing, search, filtering, sorting, quantity management, API integration, loading and error handling, and a responsive ecommerce homepage.
+The application provides reusable UI components, product browsing, search, filtering, sorting, quantity management, API integration, loading and error handling, and a responsive ecommerce homepage with multiple features
 
 ---
 

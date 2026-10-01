@@ -5,7 +5,7 @@ function CheckoutControlled() {
   return (
     <div className="min-h-screen bg-white text-gray-800">
       <main className="mx-auto max-w-[1280px] px-6 py-4">
-        {/* Breadcrumb */}
+        {/* Breadcrumb place */}
         <div className="mb-4 text-xs text-gray-500">
           Home <span className="mx-2">→</span> Cart
           <span className="mx-2">→</span> Checkout

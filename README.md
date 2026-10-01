@@ -29,7 +29,8 @@ The application uses React Router for client-side navigation.
 | `/products`     | Product cards                                  |
 | `/product-list` | Product listing, search, filtering and sorting |
 | `/showcase`     | Reusable UI component showcase                 |
-| `/Controlled`   | Controlled Form                 |
+| `/Controlled`   | Controlled Form                                 
+| `/HF`           | React Hook Form                                 
 
 ---
 ## Project Structure

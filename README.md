@@ -15,6 +15,7 @@ The application provides reusable UI components, product browsing, search, filte
 - Tailwind CSS
 - React Router
 - Swiper
+- DummyJson
 
 
 ---

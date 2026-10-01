@@ -16,6 +16,7 @@ The application provides reusable UI components, product browsing, search, filte
 - React Router
 - Swiper
 - DummyJson
+- Api for Countries
 
 
 ---

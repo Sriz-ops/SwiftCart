@@ -173,7 +173,7 @@ Header
 - Shopping List action
 - SALE badge
 - NEW badge
-- Reusable input field
+- Reusable input field with validation
 
 ### Product Listing
 

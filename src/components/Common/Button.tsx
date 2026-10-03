@@ -1,0 +1,54 @@
+import { ButtonVariant } from "../../enums/button";
+
+interface ButtonProps {
+  variant?: ButtonVariant;
+  type?: "button" | "submit" | "reset";
+  children: React.ReactNode;
+  disabled?: boolean;
+  onClick?: () => void;
+  className?: string;
+  form?: string;
+}
+
+function Button({
+  variant = "primary",
+  type = "button",
+  children,
+  disabled = false,
+  onClick,
+  className = "",
+  form,
+}: ButtonProps) {
+  const baseStyles = "w-48 h-12 font-bold text-base transition";
+
+  const variantStyles = {
+    [ButtonVariant.Primary]: "bg-orange-500 text-white hover:bg-orange-600",
+
+    [ButtonVariant.Secondary]:
+      "bg-white text-gray-800 border-2 border-gray-500 hover:bg-gray-100",
+
+    [ButtonVariant.Outline]:
+      "bg-white text-orange-600 border-2 border-orange-500 hover:bg-orange-500 hover:text-white",
+
+    [ButtonVariant.Danger]: "bg-red-700 text-white hover:bg-red-800",
+
+    [ButtonVariant.Order]:
+      "mt-4 h-10 w-full bg-orange-600 text-xs font-bold text-white transition hover:bg-orange-700",
+  };
+
+  return (
+    <button
+      type={type}
+      form={form}
+      className={`${baseStyles} ${variantStyles[variant]} ${className} ${
+        disabled ? "opacity-50 cursor-not-allowed" : ""
+      }`}
+      disabled={disabled}
+      onClick={onClick}
+    >
+      {children}
+    </button>
+  );
+}
+
+export default Button;

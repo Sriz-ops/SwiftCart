@@ -17,7 +17,7 @@ The application provides reusable UI components, product browsing, search, filte
 - Swiper
 - DummyJson
 - Api for Countries, state and cities.
-
+- Improved Loading skeleton
 
 ---
 

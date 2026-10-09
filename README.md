@@ -18,6 +18,7 @@ The application provides reusable UI components, product browsing, search, filte
 - DummyJson
 - Api for Countries, state and cities.
 - Improved Loading skeleton
+- Added cart page
 
 ---
 

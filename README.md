@@ -19,6 +19,7 @@ The application provides reusable UI components, product browsing, search, filte
 - Api for Countries, state and cities.
 - Improved Loading skeleton
 - Added cart page
+- Added Auth
 
 ---
 

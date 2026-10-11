@@ -22,6 +22,7 @@ The application provides reusable UI components, product browsing, search, filte
 - Added Auth
 - Added AuthProvider
 - Added useReducer
+- Added Context
 
 ---
 

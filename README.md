@@ -20,6 +20,7 @@ The application provides reusable UI components, product browsing, search, filte
 - Improved Loading skeleton
 - Added cart page
 - Added Auth
+- Added AuthProvider
 
 ---
 

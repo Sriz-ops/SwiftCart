@@ -1,4 +1,3 @@
-
 # React Ecommerce
 
 A responsive ecommerce web application built with React and TypeScript.
@@ -28,7 +27,6 @@ The application provides reusable UI components, product browsing, search, filte
 - Added Handling
 - Added Error Handling
 
-
 ---
 
 ## Routing
@@ -41,10 +39,11 @@ The application uses React Router for client-side navigation.
 | `/products`     | Product cards                                  |
 | `/product-list` | Product listing, search, filtering and sorting |
 | `/showcase`     | Reusable UI component showcase                 |
-| `/Controlled`   | Controlled Form                                 
-| `/HF`           | React Hook Form                                 
+| `/Controlled`   | Controlled Form                                |
+| `/HF`           | React Hook Form                                |
 
 ---
+
 ## Project Structure
 
 ```text
@@ -152,6 +151,7 @@ Header
 ```
 
 ---
+
 ## Features
 
 ### Ecommerce UI
@@ -305,10 +305,10 @@ It supports:
 - Dynamic quantity updates
 
 ## Example:
+
 ```
 <QuantitySelector quantity={quantity} onChange={setQuantity} />
 ```
-
 
 ## Search
 
@@ -316,17 +316,15 @@ The product listing includes a search feature.
 
 Search is handled through:
 
-
 Header
-   ↓
+↓
 searchTerm
-   ↓
+↓
 useDebounce
-   ↓
+↓
 ProductList
-   ↓
+↓
 Product filtering
-
 
 A custom `useDebounce` hook delays the search operation by 500ms so the product list does not update on every keystroke.
 
@@ -727,8 +725,6 @@ Demonstrates the reusable Button and Card components and their available variant
 
 ---
 
-
-
 ## Responsive Design
 
 The application supports:
@@ -800,5 +796,5 @@ Build the application:
 ```bash
 npm run build
 ```
----
 
+---

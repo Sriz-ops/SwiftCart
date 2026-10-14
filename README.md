@@ -25,6 +25,8 @@ The application provides reusable UI components, product browsing, search, filte
 - Added Context
 - Added Orders
 - Added Protected Routes
+- Added Handling
+
 
 ---
 

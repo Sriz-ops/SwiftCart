@@ -747,6 +747,7 @@ The product listing changes layout based on screen size.
 - Apply Filters button
 - Responsive product cards
 - Two-column product grid
+- User friendly design
 
 ---
 

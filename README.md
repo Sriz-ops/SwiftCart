@@ -748,6 +748,7 @@ The product listing changes layout based on screen size.
 - Responsive product cards
 - Two-column product grid
 - User friendly design
+- Reusable Component
 
 ---
 

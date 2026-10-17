@@ -750,7 +750,7 @@ The product listing changes layout based on screen size.
 - User friendly design
 - Reusable Component
 - Clean File Architecture
-- Clean Folder Structure
+- Clean Folders Structure
 
 
 ---

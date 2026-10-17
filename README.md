@@ -749,8 +749,8 @@ The product listing changes layout based on screen size.
 - Two-column product grid
 - User friendly design
 - Reusable Component
-- Clean File Architecture
-- Clean Folders Structure
+- Clean file architecture
+- Clean folder structure
 
 
 ---

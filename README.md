@@ -751,6 +751,7 @@ The product listing changes layout based on screen size.
 - Reusable Component
 - Clean file architecture
 - Clean folder structure
+- base url instead of hardcoding
 
 
 ---

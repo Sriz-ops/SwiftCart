@@ -721,7 +721,7 @@ Features include:
 
 ### Showcase
 
-Demonstrates the reusable Button and Card components and their available variants.
+Demonstrates the reusable Button and Card components and their available variants for the use case 
 
 ---
 

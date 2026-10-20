@@ -715,7 +715,7 @@ Features include:
 - Retry
 - Empty state
 - Responsive filters
-- Refresh functionality
+- Dynamic Refresh functionality
 
 ---
 

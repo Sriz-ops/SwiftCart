@@ -714,7 +714,7 @@ Features include:
 - Error state
 - Retry
 - Empty state
-- Responsive filters
+- Dynamic Responsive filters
 - Dynamic Refresh functionality
 
 ---

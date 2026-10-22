@@ -650,6 +650,7 @@ ButtonVariant.Primary;
 ButtonVariant.Secondary;
 ButtonVariant.Outline;
 ButtonVariant.Danger;
+ButtonVariant.compact;
 ```
 
 ### Product Card Variants

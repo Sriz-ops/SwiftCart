@@ -22,7 +22,7 @@ function Card({
     flat: "bg-gray-200",
   };
 
-  return (
+  return ( 
     <div className={`${baseStyles} ${variantStyles[variant]} ${className}`}>
       <h3 className="text-xl font-bold mb-3">{title}</h3>
 
